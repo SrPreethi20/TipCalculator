@@ -1,12 +1,6 @@
-# ToDoApp_React
-A simple ToDo app developed in ReactJS.
+# Tip-Calculator-in-React
 
-TodoApp is the entry component of the app. It renders the header, the AddTodo, TodoList, and VisibilityFilters components.
+This Tip calculator is to calculate the total tip offered by various customer according to their experience.
+For example,if the experience is excellent and the total billof the customeris 2000 The total tip would be 20% of 2000 i.e.400 Rs. You need to show Customer Name and the tip amount 400 as an outputfor each customer. Refer to the attached image for the functionality UI. 
 
-AddTodo is the component that allows a user to input a todo item and add to the list upon clicking its “Add Todo” button.
-
-TodoList is the component that renders the list of todos .
-
-Todo is the component that renders a single todo item:
-
-VisibilityFilters renders a simple set of filters: all, completed, and incomplete.
+![image](https://github.com/SrPreethi20/TipCalculator/blob/master/tic-calc-img.png)
