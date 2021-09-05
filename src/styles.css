@@ -1,0 +1,93 @@
+.mainDiv {
+    background-color: bisque;
+    margin: 50px;
+    /* margin-left: 200px; */
+    /* margin-right: 200px; */
+    text-align: center;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.headerDiv {
+    background-color: rgb(3, 3, 39);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+.subheading {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+.footer {
+    background-color: rgb(25, 2, 36);
+    color: white;
+}
+
+.footerData {
+    margin-top: 0;
+}
+
+.data {
+    background-color: rgb(167, 204, 241);
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.input {
+    padding: 3px;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.bill {
+    width : 80%
+    
+}
+
+
+.inputDiv {
+    border-bottom: grey;
+}
+
+ul {
+    text-align: left;
+}
+
+table,th,td {
+    width: 100%;
+    border: 1px solid;
+    text-align: center;
+}
+
+th,td {
+    margin: 15px;
+    width: 50%;
+    
+}
+
+button {
+    background-color: green;
+    color: white;
+    width: 100px;
+    border-radius: 4px;
+}
+
+.button1 {
+    background-color: yellow;
+    color: black;
+    border-radius: 4px;
+}
+
+.button2 {
+    background-color: red;
+    color: white;
+    width: 150px;
+    border-radius: 4px;
+}
